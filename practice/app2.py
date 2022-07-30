@@ -1,7 +1,7 @@
 import psycopg2
 try:
   connection = psycopg2.connect(
-      dbname="udacity", user="postgres", password="Aklex@sqldb14")
+      dbname="udacity", user="postgres", password="Aklexsqldb14")
 
   cursor = connection.cursor()
 
